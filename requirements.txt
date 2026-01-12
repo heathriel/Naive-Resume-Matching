@@ -120,7 +120,7 @@ traitlets==5.0.5
 typer==0.3.2
 typing-extensions==3.10.0.0
 tzlocal==1.5.1
-urllib3==1.26.6
+urllib3==2.6.3
 validators==0.18.2
 wasabi==0.8.2
 watchdog==2.1.3
